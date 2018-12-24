@@ -1,14 +1,14 @@
 ---
 layout: post
 title:      "Some JavaScript Basics"
-date:       2018-12-24 06:27:37 +0000
+date:       2018-12-24 01:27:37 -0500
 permalink:  some_javascript_basics
 ---
 
 
 JavaScript is a versatile and expressive language that is powerful for web development. When first start out learning this popular language, it is very beneficial to know some of the peculiarities of JavaScript like hoisting, scope, and context.
 
-####Hoisting 
+#### Hoisting 
 
 Hoisting is, for many people starting to write JS, an unknown behavior of JavaScript that by default moves all variable declarations to the top of the current scope. 
 
@@ -34,7 +34,7 @@ It is always a good rule to declare all variables, assign values to each variabl
 
 Note: Variables introduced with `let` and `const` are not affected by hoisting. 
 
-####Scope 
+#### Scope 
 
 “Scope” in JavaScript refers to the availability of a variable to a piece of code at a given time. There are two type of scope:
 
@@ -43,7 +43,7 @@ Note: Variables introduced with `let` and `const` are not affected by hoisting.
 
 Codes outside the scope in which a variable was defined does not have access to the variable.
 
-####The `this` keyword 
+#### The `this` keyword 
 
 How to determine the value of `this`? 
 - Put a `debugger` in wherever you want to find out the value of `this` and ask the console. 
@@ -72,7 +72,7 @@ If the function being invoked was created using `bind()`, `this` will be the fir
 
 Note: when `this` is used in arrow function expression, it refers to the originating context as arrow functions don't bind their own `this`. 
 
-####Something about ES6... `let` and `const` vs. `var` 
+#### Something about ES6... `let` and `const` vs. `var` 
 
 The differences between the three:
 
