@@ -64,7 +64,7 @@ let person = {
 };
 ``` 
 
-If you call `person.foo()`,  the person object, `{firstName: "John", lastName: "Doe", foo: ƒ}` will be logged in the console. `this` in this case, in the person object. 
+If you call `person.foo()`,  the person object, `{firstName: "John", lastName: "Doe", foo: ƒ}` will be logged in the console. `this` in this case, is the person object. 
 
 However, when we invoke functions within functions, `this` becomes the global object.
 If the function is invoked using `call()` or `apply()`, `this` will be the first argument passed to call/apply. 
