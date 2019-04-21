@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "The beginning of the job hunting process "
-date:       2019-04-21 05:49:51 +0000
+date:       2019-04-21 01:49:52 -0400
 permalink:  the_beginning_of_the_job_hunting_process
 ---
 
 
-Finanlly comes the day! I officially declared my Job Search Start Date and decided to fully devote myself into job applications. I want to say... I am terrified. 
+Finally comes the day! I officially declared my Job Search Start Date and decided to fully devote myself into job applications. I want to say... I am terrified. 
 
 I don't know when I will land a job, when I will  hear from HRs, when I will get invitation to onsite interviews...
 
